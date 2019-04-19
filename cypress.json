@@ -1,6 +1,7 @@
 {
   "baseUrl": "http://localhost:4100",
-  "email": "weremarc@gmail.com",
-  "password": "#|{EZTZET654",
-  "username": "weremarc"
+  "email": "cypress@devoxx.fr",
+  "password": "cypressdevoxx",
+  "username": "cypress@devoxx.fr",
+  "projectId": "duw8g5"
 }

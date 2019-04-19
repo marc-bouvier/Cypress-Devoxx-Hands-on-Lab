@@ -35,5 +35,6 @@
     "format": "prettier --write cypress/integration/devoxx/**/*.js",
     "cypress:open": "cypress open",
     "cypress:run": "cypress run -s 'cypress/integration/devoxx/**'"
+
   }
 }
