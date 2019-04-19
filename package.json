@@ -34,7 +34,8 @@
     "eject": "react-scripts eject",
     "format": "prettier --write cypress/integration/devoxx/**/*.js",
     "cypress:open": "cypress open",
-    "cypress:run": "cypress run -s 'cypress/integration/devoxx/**'"
+    "cypress:run": "cypress run -s 'cypress/integration/devoxx/**'",
+    "cypress:register": "cypress run --record --key 15c78711-f271-44ae-8f92-14b812a1097c"
 
   }
 }
